@@ -1,0 +1,3 @@
+-rw-r--r-- 1 Maria Dillon None  117 Feb 24 16:28 sample.txt
+-rwxrwxrwx 1 Maria Dillon None 5125 Feb 24 18:07 webs.js
+-rw-r--r-- 1 Maria Dillon None 1524 Feb 24 22:25 websunc.js
